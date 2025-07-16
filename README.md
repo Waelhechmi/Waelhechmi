@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Wael Hechmi</h1>
 
 <p align="center">
-  🎓 Robotics Engineering Student • 🔧 Embedded Systems Developer • 🌍 Based in Tunisia
+  🎓 Robotics Engineering  • 🔧 Embedded Systems Developer • 🌍 Based in Tunisia
 </p>
 
 ---
