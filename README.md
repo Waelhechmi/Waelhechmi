@@ -18,8 +18,8 @@
 
 - **Languages**: C, C++, Python, Bash, MATLAB
 - **Microcontrollers**: STM32, ESP32, Arduino
-- **Frameworks**: FreeRTOS, Micro-ROS, ROS 2
-- **Tools**: STM32CubeMX, PlatformIO, VS Code, Git
+- **Frameworks**: FreeRTOS, Micro-ROS, ROS 2.
+- **Tools**: STM32CubeMX, PlatformIO, ESP-IDF, VS Code, Git
 - **Interfaces**: UART, SPI, I2C, GPIO
 - **Operating Systems**: Linux, Windows
 
